@@ -1,0 +1,1 @@
+# masstransit-mediator-example
